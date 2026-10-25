@@ -52,14 +52,6 @@ export const works: Work[] = [
     live: 'https://mongolian-typing.netlify.app',
   },
   {
-    id: 'tokyo',
-    title: '東京旅行ガイドサイト',
-    type: '自主制作',
-    desc: 'モンゴル人旅行者向けの東京観光ガイド。エリア、スポット、移動方法、モデルコースを紹介。',
-    tech: ['HTML', 'CSS', 'JavaScript'],
-    live: 'https://japanaylal.netlify.app',
-  },
-  {
     id: 'house',
     title: '住宅コンセプト計画サイト',
     type: '受託制作',
