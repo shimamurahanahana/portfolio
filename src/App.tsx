@@ -234,6 +234,7 @@ function Contact() {
         <h2>一緒に働けることを<br /><span className="grad">楽しみにしています。</span></h2>
         <div className="contact-links">
           <a href={`mailto:${profile.email}`} className="btn primary">✉ {profile.email}</a>
+          <a href={profile.line} target="_blank" rel="noopener" className="btn line">LINEで連絡 ↗</a>
           <a href={profile.github} target="_blank" rel="noopener" className="btn ghost">GitHub ↗</a>
         </div>
       </Reveal>

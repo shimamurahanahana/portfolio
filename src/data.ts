@@ -4,6 +4,7 @@ export const profile = {
   role: 'Frontend Engineer',
   email: 'shimamurahanahana@gmail.com',
   github: 'https://github.com/shimamurahanahana',
+  line: 'https://line.me/ti/p/yi5ps8Dnk3',
 }
 
 export type Work = {

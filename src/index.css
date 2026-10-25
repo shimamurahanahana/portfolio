@@ -226,6 +226,7 @@ main, .footer { width: min(1180px, 100% - 32px); margin-inline: auto; position: 
 .btn:hover { transform: translateY(-3px); }
 .btn.primary { background: var(--grad); color: #fff; box-shadow: 0 10px 40px color-mix(in srgb, var(--pink) 40%, transparent); }
 .btn.ghost { border: 1px solid var(--border); background: var(--surface); }
+.btn.line { background: #06c755; color: #fff; box-shadow: 0 10px 40px rgba(6, 199, 85, .3); }
 
 .footer { text-align: center; padding: 28px 0 40px; color: var(--muted); font-size: .8rem; border-top: 1px solid var(--border); font-family: var(--font-display); }
 
